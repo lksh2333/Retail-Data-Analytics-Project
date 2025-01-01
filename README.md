@@ -4,7 +4,9 @@ Welcome to my end-to-end data analytics project! This repository showcases a com
 
 **<h3>Project Overview</h3>**
 
-This project demonstrates how to work with large datasets, from extraction and cleaning to analysis and visualization. #Here's a high-level overview:
+This project demonstrates how to work with large datasets, from extraction and cleaning to analysis and visualization.
+
+**<h3>Here's a high-level overview:</h3>**
 
 **1.Data Extraction:** Leveraged the Kaggle API to download datasets programmatically.
 
