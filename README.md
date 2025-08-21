@@ -104,9 +104,8 @@ This project demonstrates a solid understanding of the data analytics lifecycle,
 
 Feel free to explore the project and reach out with any questions or feedback. I'm excited to connect with like-minded professionals and recruiters in the data analytics field.
 
-**LinkedIn:** https://www.linkedin.com/in/devisuhitha/
 
-**Email:** cdevisuhitha@gmail.com
+**Email:** lokeshk2333@gmail.com
 
 
 
